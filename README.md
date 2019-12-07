@@ -1,7 +1,8 @@
 # CNN - Visualization
 
 Using vgg16 to visualize what CNN "sees"
-Applying it to image to change effect.
+
+Applying it to image to change the effect.
 
 ## Result
 
